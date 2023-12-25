@@ -1,0 +1,1 @@
+# Flairstech-Katalon-GeneralStore
